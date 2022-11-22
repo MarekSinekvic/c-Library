@@ -13,3 +13,4 @@ Maybe in the future I will add:
   3. Shader implementation
   4. Rigidbody class
   5. Neural network and its improvements (as gpu-acceleration, aditional models)
+  6. Triangulation algorithms
