@@ -14,3 +14,4 @@ Maybe in the future I will add:
   4. Rigidbody class
   5. Neural network and its improvements (as gpu-acceleration, aditional models)
   6. Triangulation algorithms
+  7. Mesh manipulation (like Add, Subtract, ...)
